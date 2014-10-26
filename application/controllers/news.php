@@ -1,12 +1,8 @@
 <?php
 class Blog extends CI_Controller {
 
-	public function index()
-	{
-		$this->load->model('school');
-		$data['d'] = $this->school->getS();
-		$this->load->view('table', $data);
-	}
+	public function index(){}
+	
 	public function createNews()
 	{
 		$this->load->model('category');
