@@ -14,7 +14,7 @@
 			<option value = '<?= $categoryArr[$i]['id'] ?>'>
 			<?= $categoryArr[$i]['name']?>
 			</option>
-		<?php } ?>fbfbfgfg
+		<?php } ?>
 	</select>	
 </body>
 </html>
