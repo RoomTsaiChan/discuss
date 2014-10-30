@@ -1,5 +1,5 @@
 <?php
-class Blog extends CI_Controller {
+class showBoardStru extends CI_Controller {
 
 	public function index(){}
 	
