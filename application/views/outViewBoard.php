@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
+<script type="text/javascript" src="<?= base_url('js/jquery-ui.min.js') ?>"></script>
+<link type="text/css" rel="stylesheet" href="<?= base_url('css/jquery-ui.min.css') ?>" />
+<link type="text/css" rel="stylesheet" href="<?= base_url('css/jquery-ui.theme.min.css') ?>" />
 <style type="text/css">
 #sitebody {width: 100%; margin: 0 auto; font-size: 13px;}
 #header {background-color: #FFD4D4; height: 80px; text-align: center; line-height: 80px; margin-top: 5px;}
